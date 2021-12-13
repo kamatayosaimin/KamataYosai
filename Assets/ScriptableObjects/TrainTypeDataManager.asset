@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6879ad80877a7214aa8965cf93244a71, type: 3}
+  m_Name: TrainTypeDataManager
+  m_EditorClassIdentifier: 
+  _datas:
+  - _type: 0
+    _color: {r: 0, g: 0, b: 0, a: 0}
+    _mainNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _subNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _name:
+      _mainName: 
+      _subName: 
+  - _type: 1
+    _color: {r: 0, g: 0, b: 0, a: 0}
+    _mainNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _subNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _name:
+      _mainName: "\u666E\u901A"
+      _subName: Local
+  - _type: 2
+    _color: {r: 0, g: 0, b: 1, a: 1}
+    _mainNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _subNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _name:
+      _mainName: "\u2708\u6025\u884C"
+      _subName: Express
+  - _type: 3
+    _color: {r: 1, g: 0, b: 0, a: 1}
+    _mainNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _subNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _name:
+      _mainName: "\u7279\u6025"
+      _subName: Ltd. Exp.
+  - _type: 4
+    _color: {r: 0, g: 1, b: 0, a: 1}
+    _mainNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _subNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _name:
+      _mainName: "\u5FEB\u7279"
+      _subName: Ltd. Exp.
+  - _type: 5
+    _color: {r: 1, g: 0.8784314, b: 0, a: 1}
+    _mainNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _subNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _name:
+      _mainName: "\u2708\u5FEB\u7279"
+      _subName: Ltd. Exp.
+  - _type: 6
+    _color: {r: 0, g: 1, b: 0, a: 1}
+    _mainNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _subNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _name:
+      _mainName: Wing
+      _subName: "\u30A6\u30A3\u30F3\u30B0\u53F7"
+  - _type: 7
+    _color: {r: 0, g: 1, b: 0, a: 1}
+    _mainNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _subNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _name:
+      _mainName: Wing
+      _subName: "\u30A6\u30A3\u30F3\u30B0\u53F7"
+  - _type: 10
+    _color: {r: 0, g: 0, b: 0, a: 0}
+    _mainNameColor: {r: 1, g: 0, b: 1, a: 1}
+    _subNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _name:
+      _mainName: "\u5FEB\u901F"
+      _subName: Rapid
+  - _type: 11
+    _color: {r: 0, g: 0, b: 1, a: 1}
+    _mainNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _subNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _name:
+      _mainName: "\u6025\u884C"
+      _subName: Express
+  - _type: 12
+    _color: {r: 0, g: 0, b: 0, a: 0}
+    _mainNameColor: {r: 0, g: 1, b: 1, a: 1}
+    _subNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _name:
+      _mainName: "\u901A\u7279"
+      _subName: Commuter Express
+  - _type: 13
+    _color: {r: 1, g: 0.7529412, b: 0, a: 1}
+    _mainNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _subNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _name:
+      _mainName: "\uFF71\uFF78\uFF7E\uFF7D\u7279\u6025"
+      _subName: Access Express
+  - _type: 100
+    _color: {r: 0, g: 0, b: 0, a: 0}
+    _mainNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _subNameColor: {r: 1, g: 1, b: 1, a: 1}
+    _name:
+      _mainName: 
+      _subName: 
+  - _type: 101
+    _color: {r: 0, g: 0, b: 0, a: 0}
+    _mainNameColor: {r: 1, g: 1, b: 0.5, a: 1}
+    _subNameColor: {r: 1, g: 1, b: 0.5, a: 1}
+    _name:
+      _mainName: "\u56DE\u9001"
+      _subName: out of service

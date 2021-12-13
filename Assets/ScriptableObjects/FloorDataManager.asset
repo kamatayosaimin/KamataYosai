@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6161d4a007190b44d8a9f50c844d51d2, type: 3}
+  m_Name: FloorDataManager
+  m_EditorClassIdentifier: 
+  _datas:
+  - _type: 2
+    _color: {r: 1, g: 0.5019608, b: 1, a: 1}
+    _name:
+      _mainName: "2\u968E\u30DB\u30FC\u30E0"
+      _subName: 2rd Floor
+  - _type: 3
+    _color: {r: 1, g: 0.8784314, b: 0.5019608, a: 1}
+    _name:
+      _mainName: "3\u968E\u30DB\u30FC\u30E0"
+      _subName: 3rd Floor

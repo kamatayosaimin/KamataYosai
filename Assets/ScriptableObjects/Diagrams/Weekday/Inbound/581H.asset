@@ -1,0 +1,322 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef8e161b07a4f3a438597bf9ae7610d4, type: 3}
+  m_Name: 581H
+  m_EditorClassIdentifier: 
+  _departureStation: 17
+  _destinationStation: 1
+  _stations:
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 2
+    _station: 17
+    _track: 0
+    _changeType: 2
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 38
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 16
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 40
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 41
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 15
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 43
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 43
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 14
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 44
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 44
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 13
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 45
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 45
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 12
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 47
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 47
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 1
+    _station: 11
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 49
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 50
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 10
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 9
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 8
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 52
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 53
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 7
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 6
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 55
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 55
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 5
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 4
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 57
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 57
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 3
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 2
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 1
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 6
+      _minutes: 0
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
