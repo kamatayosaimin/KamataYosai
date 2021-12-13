@@ -1,0 +1,450 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac99860f33078154285a9ce7765444a3, type: 3}
+  m_Name: DepartureDataManager
+  m_EditorClassIdentifier: 
+  _track1Yokohama:
+  - _track: 1
+    _cars: 8
+    _station: 11
+    _tarinType: 1
+  - _track: 1
+    _cars: 6
+    _station: 64
+    _tarinType: 1
+  - _track: 1
+    _cars: 8
+    _station: 20
+    _tarinType: 2
+  - _track: 1
+    _cars: 8
+    _station: 34
+    _tarinType: 2
+  - _track: 1
+    _cars: 6
+    _station: 49
+    _tarinType: 2
+  - _track: 1
+    _cars: 8
+    _station: 49
+    _tarinType: 2
+  - _track: 1
+    _cars: 6
+    _station: 53
+    _tarinType: 2
+  - _track: 1
+    _cars: 8
+    _station: 53
+    _tarinType: 2
+  - _track: 1
+    _cars: 8
+    _station: 53
+    _tarinType: 3
+  - _track: 1
+    _cars: 8
+    _station: 67
+    _tarinType: 3
+  _track1HanedaAirport:
+  - _track: 1
+    _cars: 8
+    _station: 17
+    _tarinType: 1
+  - _track: 1
+    _cars: 8
+    _station: 17
+    _tarinType: 2
+  - _track: 1
+    _cars: 8
+    _station: 17
+    _tarinType: 4
+  - _track: 1
+    _cars: 8
+    _station: 17
+    _tarinType: 5
+  _track2:
+  - _track: 2
+    _cars: 4
+    _station: 11
+    _tarinType: 1
+  - _track: 2
+    _cars: 6
+    _station: 34
+    _tarinType: 1
+  - _track: 2
+    _cars: 6
+    _station: 49
+    _tarinType: 1
+  - _track: 2
+    _cars: 6
+    _station: 53
+    _tarinType: 1
+  _track3:
+  - _track: 3
+    _cars: 6
+    _station: 20
+    _tarinType: 1
+  - _track: 3
+    _cars: 4
+    _station: 34
+    _tarinType: 1
+  - _track: 3
+    _cars: 6
+    _station: 34
+    _tarinType: 1
+  - _track: 3
+    _cars: 6
+    _station: 44
+    _tarinType: 1
+  - _track: 3
+    _cars: 4
+    _station: 49
+    _tarinType: 1
+  - _track: 3
+    _cars: 6
+    _station: 49
+    _tarinType: 1
+  - _track: 3
+    _cars: 6
+    _station: 53
+    _tarinType: 1
+  - _track: 3
+    _cars: 6
+    _station: 53
+    _tarinType: 1
+  - _track: 3
+    _cars: 4
+    _station: 64
+    _tarinType: 1
+  - _track: 3
+    _cars: 6
+    _station: 64
+    _tarinType: 1
+  - _track: 3
+    _cars: 6
+    _station: 67
+    _tarinType: 1
+  - _track: 3
+    _cars: 8
+    _station: 34
+    _tarinType: 3
+  - _track: 3
+    _cars: 8
+    _station: 49
+    _tarinType: 3
+  - _track: 3
+    _cars: 8
+    _station: 64
+    _tarinType: 3
+  - _track: 3
+    _cars: 8
+    _station: 67
+    _tarinType: 3
+  - _track: 3
+    _cars: 12
+    _station: 67
+    _tarinType: 3
+  - _track: 3
+    _cars: 8
+    _station: 71
+    _tarinType: 3
+  - _track: 3
+    _cars: 8
+    _station: 72
+    _tarinType: 3
+  - _track: 3
+    _cars: 12
+    _station: 72
+    _tarinType: 3
+  - _track: 3
+    _cars: 8
+    _station: 67
+    _tarinType: 4
+  - _track: 3
+    _cars: 12
+    _station: 67
+    _tarinType: 4
+  - _track: 3
+    _cars: 8
+    _station: 72
+    _tarinType: 4
+  - _track: 3
+    _cars: 12
+    _station: 72
+    _tarinType: 4
+  - _track: 3
+    _cars: 8
+    _station: 67
+    _tarinType: 6
+  - _track: 3
+    _cars: 8
+    _station: 72
+    _tarinType: 6
+  _track4Shinagawa:
+  - _track: 4
+    _cars: 8
+    _station: 11
+    _tarinType: 1
+  - _track: 4
+    _cars: 6
+    _station: 1
+    _tarinType: 1
+  - _track: 4
+    _cars: 8
+    _station: 1
+    _tarinType: 2
+  - _track: 4
+    _cars: 8
+    _station: 107
+    _tarinType: 2
+  - _track: 4
+    _cars: 8
+    _station: 120
+    _tarinType: 2
+  - _track: 4
+    _cars: 8
+    _station: 209
+    _tarinType: 2
+  - _track: 4
+    _cars: 8
+    _station: 210
+    _tarinType: 2
+  - _track: 4
+    _cars: 8
+    _station: 235
+    _tarinType: 2
+  - _track: 4
+    _cars: 8
+    _station: 240
+    _tarinType: 2
+  - _track: 4
+    _cars: 8
+    _station: 240
+    _tarinType: 2
+  - _track: 4
+    _cars: 8
+    _station: 242
+    _tarinType: 2
+  - _track: 4
+    _cars: 8
+    _station: 313
+    _tarinType: 2
+  - _track: 4
+    _cars: 8
+    _station: 314
+    _tarinType: 2
+  - _track: 4
+    _cars: 8
+    _station: 401
+    _tarinType: 2
+  - _track: 4
+    _cars: 8
+    _station: 1242
+    _tarinType: 2
+  - _track: 4
+    _cars: 8
+    _station: 1
+    _tarinType: 4
+  - _track: 4
+    _cars: 8
+    _station: 209
+    _tarinType: 4
+  - _track: 4
+    _cars: 8
+    _station: 210
+    _tarinType: 4
+  - _track: 4
+    _cars: 8
+    _station: 313
+    _tarinType: 4
+  - _track: 4
+    _cars: 8
+    _station: 314
+    _tarinType: 4
+  - _track: 4
+    _cars: 8
+    _station: 1242
+    _tarinType: 4
+  - _track: 4
+    _cars: 8
+    _station: 209
+    _tarinType: 5
+  - _track: 4
+    _cars: 8
+    _station: 242
+    _tarinType: 5
+  - _track: 4
+    _cars: 8
+    _station: 401
+    _tarinType: 5
+  - _track: 4
+    _cars: 8
+    _station: 1242
+    _tarinType: 5
+  _track4HanedaAirport:
+  - _track: 4
+    _cars: 6
+    _station: 17
+    _tarinType: 1
+  - _track: 4
+    _cars: 8
+    _station: 17
+    _tarinType: 1
+  - _track: 4
+    _cars: 6
+    _station: 17
+    _tarinType: 2
+  - _track: 4
+    _cars: 8
+    _station: 17
+    _tarinType: 2
+  - _track: 4
+    _cars: 8
+    _station: 17
+    _tarinType: 3
+  - _track: 4
+    _cars: 8
+    _station: 17
+    _tarinType: 4
+  - _track: 4
+    _cars: 8
+    _station: 17
+    _tarinType: 5
+  _track5:
+  - _track: 5
+    _cars: 4
+    _station: 1
+    _tarinType: 1
+  - _track: 5
+    _cars: 6
+    _station: 1
+    _tarinType: 1
+  _track6:
+  - _track: 6
+    _cars: 4
+    _station: 1
+    _tarinType: 1
+  - _track: 6
+    _cars: 6
+    _station: 1
+    _tarinType: 1
+  - _track: 6
+    _cars: 8
+    _station: 1
+    _tarinType: 3
+  - _track: 6
+    _cars: 12
+    _station: 1
+    _tarinType: 3
+  - _track: 6
+    _cars: 8
+    _station: 107
+    _tarinType: 3
+  - _track: 6
+    _cars: 12
+    _station: 107
+    _tarinType: 3
+  - _track: 6
+    _cars: 8
+    _station: 120
+    _tarinType: 3
+  - _track: 6
+    _cars: 12
+    _station: 120
+    _tarinType: 3
+  - _track: 6
+    _cars: 8
+    _station: 209
+    _tarinType: 3
+  - _track: 6
+    _cars: 12
+    _station: 209
+    _tarinType: 3
+  - _track: 6
+    _cars: 8
+    _station: 210
+    _tarinType: 3
+  - _track: 6
+    _cars: 12
+    _station: 210
+    _tarinType: 3
+  - _track: 6
+    _cars: 8
+    _station: 235
+    _tarinType: 3
+  - _track: 6
+    _cars: 8
+    _station: 314
+    _tarinType: 3
+  - _track: 6
+    _cars: 8
+    _station: 1242
+    _tarinType: 3
+  - _track: 6
+    _cars: 12
+    _station: 1242
+    _tarinType: 3
+  - _track: 6
+    _cars: 8
+    _station: 1
+    _tarinType: 4
+  - _track: 6
+    _cars: 12
+    _station: 1
+    _tarinType: 4
+  - _track: 6
+    _cars: 8
+    _station: 107
+    _tarinType: 4
+  - _track: 6
+    _cars: 12
+    _station: 107
+    _tarinType: 4
+  - _track: 6
+    _cars: 8
+    _station: 120
+    _tarinType: 4
+  - _track: 6
+    _cars: 8
+    _station: 209
+    _tarinType: 4
+  - _track: 6
+    _cars: 12
+    _station: 209
+    _tarinType: 4
+  - _track: 6
+    _cars: 8
+    _station: 210
+    _tarinType: 4
+  - _track: 6
+    _cars: 8
+    _station: 313
+    _tarinType: 4
+  - _track: 6
+    _cars: 8
+    _station: 314
+    _tarinType: 4
+  - _track: 6
+    _cars: 12
+    _station: 314
+    _tarinType: 4
+  - _track: 6
+    _cars: 8
+    _station: 1242
+    _tarinType: 4
+  - _track: 6
+    _cars: 8
+    _station: 1
+    _tarinType: 7
+  - _track: 6
+    _cars: 8
+    _station: 107
+    _tarinType: 7

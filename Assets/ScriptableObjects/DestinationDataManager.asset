@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aeb0b6d1f8783343b3bbf8bb4953e7a, type: 3}
+  m_Name: DestinationDataManager
+  m_EditorClassIdentifier: 
+  _none:
+    _station: 0
+    _name:
+      _mainName: 
+      _subName: 
+  _passage:
+    _station: 0
+    _name:
+      _mainName: "\u901A\u904E"
+      _subName: Passage
+  _datas:
+  - _station: 1
+    _name:
+      _mainName: "\u54C1\u5DDD"
+      _subName: Shinagawa
+  - _station: 11
+    _name:
+      _mainName: "\u4EAC\u6025\u84B2\u7530"
+      _subName: "Keiky\u016B Kamata"
+  - _station: 17
+    _name:
+      _mainName: "\u7FBD\u7530\u7A7A\u6E2F"
+      _subName: Haneda Airport
+  - _station: 20
+    _name:
+      _mainName: "\u4EAC\u6025\u5DDD\u5D0E"
+      _subName: "Keiky\u016B Kawasaki"
+  - _station: 34
+    _name:
+      _mainName: "\u795E\u5948\u5DDD\u65B0\u753A"
+      _subName: Kanagawa-shimmachi
+  - _station: 44
+    _name:
+      _mainName: "\u4E0A\u5927\u5CA1"
+      _subName: "Kami\u014Doka"
+  - _station: 49
+    _name:
+      _mainName: "\u91D1\u6CA2\u6587\u5EAB"
+      _subName: Kanazawa-bunko
+  - _station: 53
+    _name:
+      _mainName: "\u65B0\u9017\u5B50"
+      _subName: Shinzushi
+  - _station: 64
+    _name:
+      _mainName: "\u6D66\u8CC0"
+      _subName: Uraga
+  - _station: 67
+    _name:
+      _mainName: "\u4EAC\u6025\u4E45\u91CC\u6D5C"
+      _subName: "Keiky\u016B Kurihama"
+  - _station: 71
+    _name:
+      _mainName: "\u4E09\u6D66\u6D77\u5CB8"
+      _subName: Miurakaigan
+  - _station: 72
+    _name:
+      _mainName: "\u4E09\u5D0E\u53E3"
+      _subName: Misakiguchi
+  - _station: 107
+    _name:
+      _mainName: "\u6CC9\u5CB3\u5BFA"
+      _subName: Sengakuji
+  - _station: 120
+    _name:
+      _mainName: "\u62BC\u4E0A"
+      _subName: Oshiage
+  - _station: 209
+    _name:
+      _mainName: "\u9752\u7825"
+      _subName: Aoto
+  - _station: 210
+    _name:
+      _mainName: "\u9AD8\u7802"
+      _subName: Takasago
+  - _station: 235
+    _name:
+      _mainName: "\u4F50\u5009"
+      _subName: Sakura
+  - _station: 240
+    _name:
+      _mainName: "\u6210\u7530"
+      _subName: Narita
+  - _station: 242
+    _name:
+      _mainName: "\u6210\u7530\u7A7A\u6E2F"
+      _subName: Narita Airport
+  - _station: 313
+    _name:
+      _mainName: "\u5370\u897F\u7267\u306E\u539F"
+      _subName: Inzaimakinohara
+  - _station: 314
+    _name:
+      _mainName: "\u5370\u65DB\u65E5\u672C\u533B\u5927"
+      _subName: Imba Nihon-idai
+  - _station: 401
+    _name:
+      _mainName: "\u829D\u5C71\u5343\u4EE3\u7530"
+      _subName: Shibayama-Chiyoda
+  - _station: 1242
+    _name:
+      _mainName: "\u6210\u7530\u7A7A\u6E2F<size=24>(\u6210\u7530\uFF7D\uFF76\uFF72\uFF71\uFF78\uFF7E\uFF7D\u7DDA\u7D4C\u7531)</size>"
+      _subName: Narita Airport<size=14>(via Narita SKY ACCESS Line)</size>
+  _otherDatas:
+  - _station: 0
+    _name:
+      _mainName: "\u3051\u3044\u304D\u3085\u3093"
+      _subName: Keikyun

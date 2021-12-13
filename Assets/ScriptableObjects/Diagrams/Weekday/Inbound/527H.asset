@@ -1,0 +1,664 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef8e161b07a4f3a438597bf9ae7610d4, type: 3}
+  m_Name: 527H
+  m_EditorClassIdentifier: 
+  _departureStation: 34
+  _destinationStation: 209
+  _stations:
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 1
+    _station: 34
+    _track: 0
+    _changeType: 3
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 20
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 33
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 32
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 31
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 30
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 29
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 28
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 27
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 20
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 25
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 26
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 19
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 18
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 11
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 29
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 30
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 10
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 9
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 8
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 32
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 32
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 7
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 6
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 5
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 4
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 35
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 35
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 3
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 0
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 2
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _departureTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 1
+    _track: 0
+    _changeType: 1
+    _arrivalTime:
+      _hours: 5
+      _minutes: 38
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 39
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 10
+    _station: 107
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 41
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 41
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 108
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 43
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 43
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 109
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 45
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 46
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 110
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 47
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 48
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 111
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 49
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 50
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 112
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 51
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 51
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 113
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 53
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 53
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 114
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 54
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 55
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 115
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 56
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 57
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 116
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 58
+      _seconds: -1
+    _departureTime:
+      _hours: 5
+      _minutes: 58
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 117
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 5
+      _minutes: 59
+      _seconds: -1
+    _departureTime:
+      _hours: 6
+      _minutes: 0
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 118
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 6
+      _minutes: 1
+      _seconds: -1
+    _departureTime:
+      _hours: 6
+      _minutes: 1
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 119
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 6
+      _minutes: 3
+      _seconds: -1
+    _departureTime:
+      _hours: 6
+      _minutes: 3
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1
+  - _isStop: 1
+    _changeNumberOfCompartments: 0
+    _changeLine: 0
+    _station: 120
+    _track: 0
+    _changeType: 0
+    _arrivalTime:
+      _hours: 6
+      _minutes: 4
+      _seconds: -1
+    _departureTime:
+      _hours: 6
+      _minutes: 5
+      _seconds: -1
+    _passageTime:
+      _hours: -1
+      _minutes: -1
+      _seconds: -1

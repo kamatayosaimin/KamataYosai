@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbe928cae3e15b74fa6ffa9ad30d9da7, type: 3}
+  m_Name: DisplayPanelHeader
+  m_EditorClassIdentifier: 
+  _secondFloor:
+    _mainName: "2\u968E\u30DB\u30FC\u30E0"
+    _subName: 2nd Floor
+  _thirdFloor:
+    _mainName: "3\u968E\u30DB\u30FC\u30E0"
+    _subName: 3rd Floor
+  _forShinagawa:
+    _mainName: "\u54C1\u5DDD\u65B9\u9762"
+    _subName: For Shinagawa
+  _forYokohama:
+    _mainName: "\u6A2A\u6D5C\u65B9\u9762"
+    _subName: For Yokohama
+  _forHanedaAirport:
+    _mainName: "\u7FBD\u7530\u7A7A\u6E2F\u65B9\u9762"
+    _subName: For Haneda Airport
